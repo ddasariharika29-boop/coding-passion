@@ -1,6 +1,6 @@
 import streamlit as st
 
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import  from SentenceTransformer
 import chromadb
 import ollama
 st.set_page_config(page_title="Mini RAG Q&A",page_icon="")
